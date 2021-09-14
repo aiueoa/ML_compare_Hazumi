@@ -1,2 +1,4 @@
 # ML_compare_Hazumi
 Hazumiの公開されているデータセットに対して、cross-validationで検証を行う
+
+jupyter-notebookに書いてあるコードを動かすと、ファイルのダウンロードから実行までができる
